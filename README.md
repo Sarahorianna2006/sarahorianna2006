@@ -4,8 +4,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<div>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Always%20learning%20new%20things;&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;C%23%20%7C%20.NET%20%7C%20QA;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45">
+  </a>
 </p>
 <p align='center'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
@@ -24,16 +27,16 @@
 🌱  Always learning. Always improving.
 
 💬  Open to collaboration, challenging projects, and meaningful technical discussions.
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2></summary> 
   </ul>
 </div>
-<!--tech stack icons-->
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,git,azure,bootstrap,bash,githubactions,heroku,npm,dotnet,css,discord,fastapi,docker,postgres,github,html,js,linux,ubuntu,windows,vite,md,mongodb,mysql,nodejs,postman,py,vscode,rider,&perline=14" />
@@ -48,8 +51,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Contact me
+<h2 style="display: inline-block">GitHub Stats</>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarahorianna2006&theme=holi-theme">
+</p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 style="display: inline-block">Contact me</>
 <p align="center">
   <a href="mailto:contact.sarahorianna@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -61,20 +70,3 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## GitHub Stats:
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarahorianna2006&theme=holi-theme">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Top Contributed Repo
-<p align="center">
- <img src="https://github-contributor-stats.vercel.app/api?username=Sarahorianna2006&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true">
-</p>
-
-
-

@@ -43,20 +43,48 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+<h2 style="display: inline-block">Contribution Activity <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40" /></>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sarahorianna2006/sarahorianna2006/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <!-- Modo oscuro -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://raw.githubusercontent.com/sarahorianna2006/sarahorianna2006/output/github-contribution-grid-snake-dark.svg"
+    />
+    <!-- Modo claro -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://raw.githubusercontent.com/sarahorianna2006/sarahorianna2006/output/github-contribution-grid-snake.svg"
+    />
+    <!-- Imagen por defecto -->
+    <img src="https://raw.githubusercontent.com/sarahorianna2006/sarahorianna2006/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 style="display: inline-block">GitHub Stats  <img src="https://img.icons8.com/?size=100&id=j1VehapaDMSP&format=png&color=000000" width="28" style="vertical-align: middle;"/></>
+<p align="center">
+  <picture>
+    <!-- Modo oscuro -->
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sarahorianna2006&theme=holi-theme"
+      media="(prefers-color-scheme: dark)"
+    />
+    <!-- Modo claro -->
+    <source 
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Sarahorianna2006&theme=default"
+      media="(prefers-color-scheme: light)"
+    />
+    <!-- Imagen por defecto -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarahorianna2006&theme=default" />
+  </picture>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 style="display: inline-block">GitHub Stats</>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarahorianna2006&theme=holi-theme">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h2 style="display: inline-block">Contact me</>
+<h2 style="display: inline-block">Contact me  <img src="https://img.icons8.com/?size=100&id=VL1r4roKhIDN&format=png&color=000000" width="28"/></>
 <p align="center">
   <a href="mailto:contact.sarahorianna@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />

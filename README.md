@@ -9,11 +9,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;C%23%20%7C%20.NET%20%7C%20QA;Always%20learning%20new%20things;&font=Fira%20Code&center=true&width=440&height=45">
   </a>
+<p align="center">
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif"
+    />
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif"
+    />
+    <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270">
+  </picture>
 </p>
-<p align='center'>
-<img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-</p>
-
 👩🏻‍💻  About Me
 
 💡  I design and build backend solutions focused on clean architecture, scalability, and maintainability using C# and .NET.
